@@ -1,0 +1,5 @@
+struct BinaryTreeNode{
+    int info;
+    struct BinaryTreeNode *left;
+    struct BinaryTreeNode *Right;
+};
